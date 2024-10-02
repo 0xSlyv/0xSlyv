@@ -1,12 +1,14 @@
-<h2 align="center">Hi there! I'm Jason, used to be known as zSlyv on the internet.</h2>
+<h2 align="center">Hi there! I'm Jason</h2>
 
-* I'm currently a Computer Systems Engineering student.
-* I have  knowledge of Python, Java, JavaScript, Kotlin, PHP, C#, C++, and C.
-* i Know how to use tools like Arduino, Figma, Photoshop, and Unity.
-* I'm very interested in automated systems.
-  
+* ∴ About to graduate from Computer Systems Engineering.
+* ∠ My favourite programming languages are Python, Java, JavaScript, Kotlin, C#, C++.
+* ∵ I also know PHP and C.
+* ∫ Specially focus on Angular, SpringBoot, Laravel and OpenGL.
+* ∆ Enjoy using Arduino, Figma, Photoshop, Blender and Unity.
+* ∇ I'm very interested in automated systems.
+
+* I also have some basic knowledge on Android Studio and Godot Engine.
 <!-- 
 
 -->
-
-- You can find me in any social media as @jasonvzrz
+<p align="center">You can find me in any social media as @jasonvzrz</p>
