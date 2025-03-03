@@ -1,10 +1,24 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:22052d,100:ccb3d1&reversal=true"
+  />
+</p>
 <h2 href="https://zslyv.github.io">
   <a href="https://github.com/zslyv">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1080&lines=Hi!+%3AD;Hola!+%3AD;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%3AD" alt="Typing SVG"/>
   </a>
 </h2>
 
-<p align="center">I love design.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/I_love_design.-black">
+</p>
 
+<div align="justify">
+    <p align="center">
+      <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fzslyv&s=20&c=ccb3d1&bg=00000000&no=1&ff=digi&tb=Profile+visits%3A+&ta=" alt="visits">
+    </p>
+</div>
 
-<p align="center">Contact me in any site as @zslyv ^^</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Contact_me_in_any_site_as_@zslyv_:D-black">
+</p>
