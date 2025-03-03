@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:22052d,100:ccb3d1&reversal=true"
+    src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:24354f,100:0d141f&reversal=true"
   />
 </p>
 <h2 href="https://zslyv.github.io">
@@ -10,15 +10,15 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/I_love_design.-black">
+  <img src="https://img.shields.io/badge/I_love_design.-0d141f?style=flat-square">
 </p>
 
 <div align="justify">
     <p align="center">
-      <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fzslyv&s=20&c=ccb3d1&bg=00000000&no=1&ff=digi&tb=Profile+visits%3A+&ta=" alt="visits">
+      <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fzslyv&s=20&c=24353b&bg=00000000&no=1&ff=digi&tb=Profile+visits%3A+&ta=" alt="visits">
     </p>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contact_me_in_any_site_as_@zslyv_:D-black">
+  <img src="https://img.shields.io/badge/Contact_me_in_any_site_as_@zslyv_:D-0d141f?style=flat-square">
 </p>
