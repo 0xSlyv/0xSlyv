@@ -13,12 +13,14 @@
   <img src="https://img.shields.io/badge/I_love_design.-0d141f?style=flat-square">
 </p>
 
+<!-- 
 <div align="justify">
     <p align="center">
       <img src="https://visit-counter.vercel.app/counter.png?page=github.com%2Fzslyv&s=20&c=24353b&bg=00000000&no=1&ff=digi&tb=Profile+visits%3A+&ta=" alt="visits">
     </p>
 </div>
-
+ -->
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/Contact_me_in_any_site_as_@zslyv_:D-0d141f?style=flat-square">
 </p>
