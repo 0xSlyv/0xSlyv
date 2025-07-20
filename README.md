@@ -10,7 +10,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/I_love_design.-0d141f?style=flat-square">
+  <img src="https://img.shields.io/badge/I_love_design._@0xSlyv-0d141f?style=flat-square">
 </p>
 <!-- 
 <div align="justify">
@@ -19,7 +19,7 @@
     </p>
 </div>
  -->
- 
+ <!-- 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contact_me_in_any_site_as_@zslyv_:D-0d141f?style=flat-square">
+  <img src="https://img.shields.io/badge/Contact_me_in_any_platform_as_@0xSlyv_:D-0d141f?style=flat-square">
 </p>
