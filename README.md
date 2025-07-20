@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:24354f,100:0d141f&reversal=true"
+    src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:24354f,100:9071ad&reversal=true"
   />
 </p>
 <h2 href="https://zslyv.github.io">
